@@ -109,7 +109,7 @@
             },
             "development": {
               "buildTarget": "maqraaty_2:build:development",
-              "port": 4202
+              "port": 4000
             }
           },
           "defaultConfiguration": "development"
